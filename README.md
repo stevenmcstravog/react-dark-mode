@@ -1,7 +1,7 @@
 # React Dark / Light Theme Switcher
 
 - Bootstrap
-- useEffect & useContext hooks
+- useState, useEffect & useContext hooks
 
 ![screenshot light](https://github.com/stevenmcstravog/react-dark-mode/blob/main/screenshot-1.png)
 
